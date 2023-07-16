@@ -1,5 +1,5 @@
 # Emotion recognition using facial expressions
-This project is 2020 summer project of brain and cognitive society ,Science and Technlogy council , **IIT Kanpur**. 
+This project is 2022 summer project of brain and cognitive society ,Science and Technlogy council , **IIT Kanpur**. 
 As the name suggests it is meant for leveraging the computer with the ability of classifying seven basic emotions using the facial expressions of 
 humans.The seven basic emotions we're gonna classify are:
 
